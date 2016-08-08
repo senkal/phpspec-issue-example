@@ -1,0 +1,13 @@
+{
+    "name": "senkal/phpspec-issue-example",
+    "type": "project",
+    "require": {
+        "phpspec/phpspec": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
